@@ -1,2 +1,2 @@
-# Bank-Management-System
+# Bank-Management-System using C-Prog
 Banking Managment System with options to create account,transaction,deposits,etc...
